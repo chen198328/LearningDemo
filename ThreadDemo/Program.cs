@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading;
-namespace ThreadDemo
+namespace ThreadsDemo
 {
     class Program
     {
@@ -13,7 +13,9 @@ namespace ThreadDemo
 
             //MethodofQueueUserWorkItem();
 
-            MethodofRegisterWaitForSingleObject();
+            //MethodofRegisterWaitForSingleObject();
+
+            ThreadDemo.ShowTest();
             Console.ReadKey();
         }
         public static void SomethingAboutThreadPool()
