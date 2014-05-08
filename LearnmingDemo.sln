@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DatabaseDemo", "DatabaseDem
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DelegateAndEventDemo", "DelegateAndEvent\DelegateAndEventDemo.csproj", "{9FC115B6-9B87-47D6-892E-555AA674DCED}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataStructuresandAlgorithms", "DataStructuresandAlgorithms\DataStructuresandAlgorithms.csproj", "{6ED60C02-661C-433A-9F68-3E4DECE21E2A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{9FC115B6-9B87-47D6-892E-555AA674DCED}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9FC115B6-9B87-47D6-892E-555AA674DCED}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9FC115B6-9B87-47D6-892E-555AA674DCED}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6ED60C02-661C-433A-9F68-3E4DECE21E2A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6ED60C02-661C-433A-9F68-3E4DECE21E2A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6ED60C02-661C-433A-9F68-3E4DECE21E2A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6ED60C02-661C-433A-9F68-3E4DECE21E2A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
